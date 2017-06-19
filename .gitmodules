@@ -1,0 +1,20 @@
+[submodule "ngx-build-tools"]
+	path = ngx-build-tools
+	url = git@github.com:dcsfuerth/ngx-build-tools.git
+	branch = master
+[submodule "ngx-components"]
+	path = ngx-components
+	url = git@github.com:dcsfuerth/ngx-components.git
+	branch = master
+[submodule "ngx-utils"]
+	path = ngx-utils
+	url = git@github.com:dcsfuerth/ngx-utils.git
+	branch = master
+[submodule "ngx-lib-starter"]
+	path = ngx-lib-starter
+	url = git@github.com:dcsfuerth/ngx-lib-starter.git
+	branch = master
+[submodule "ngx-starter"]
+	path = ngx-starter
+	url = git@github.com:dcsfuerth/ngx-starter.git
+	branch = master
